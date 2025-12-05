@@ -1,2 +1,4 @@
 node_modules
 .DS_Store
+# Windows Alternate Data Streams
+*Zone.Identifier
