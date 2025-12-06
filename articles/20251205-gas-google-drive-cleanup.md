@@ -32,10 +32,10 @@ https://github.com/ktakta0319/work-automation/tree/main/gas/google-drive-cleanup
 https://github.com/ktakta0319/work-automation/blob/main/gas/google-drive-cleanup/google-drive-cleanup.gs#L9-L17
 
 3. トリガー機能を設定する
-![](/images/gas-google-drive-cleanup/pic1.png)
+![](/images/20251205-gas-google-drive-cleanup/pic1.png)
 ## 4. 試した結果
 1. 下記のようにファイルを用意する
-![](/images/gas-google-drive-cleanup/pic2.png)
+![](/images/20251205-gas-google-drive-cleanup/pic2.png)
 2. 削除対象とするファイルを以下のように設定する（「削除対象スプレッドシート」と「削除対象スライド」のみが削除される想定）
 ```javascript
   // ===== 設定値 =====
@@ -57,9 +57,9 @@ https://github.com/ktakta0319/work-automation/blob/main/gas/google-drive-cleanup
   const cutoff = new Date(now.getTime() - 60 * 1000); // テスト用に作成から1分経過したファイルを削除対象に
 ```
 3. トリガーが起動して以下のように想定通りのファイルが削除されたことが確認できる
-![](/images/gas-google-drive-cleanup/pic3.png)
+![](/images/20251205-gas-google-drive-cleanup/pic3.png)
 4. スクリプトの実行ログで削除されたファイルが確認できる
-![](/images/gas-google-drive-cleanup/pic4.png)
+![](/images/20251205-gas-google-drive-cleanup/pic4.png)
 ## 5. おわりに
 この記事ではGASを使って、Google Driveの特定のフォルダにあるファイルを定期的に自動削除する方法を紹介しました。
 今後も業務効率化を実現する方法を発信し、同じ課題を持つ方のお役に立てれば幸いです。
