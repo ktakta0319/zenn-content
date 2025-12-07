@@ -16,6 +16,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ABEND | アベンド | Abnormal End | 異常終了 |
 | ACL | - | Access Control List | アクセス制御リスト |
 | AGI | - | Artificial General Intelligence | 人工汎用知能 |
+| AI | - | Adobe Illustrator | - |
 | AI | - | Artificial Intelligence | 人工知能 |
 | ANSI | アンシー | American National Standards Institute | 米国規格協会 |
 | API | - | Application Programming Interface | - |
@@ -56,11 +57,14 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | CFO | - | Chief Financial Officer | 最高財務責任者 |
 | CG | - | Computer Graphics | - |
 | CI | - | Continuous Integration | 継続的インテグレーション |
+| CIA | - | Confidentiality Integrity Availability | 機密性・完全性・可用性 |
 | CIO | - | Chief Information Officer | 最高情報責任者 |
+| COO | - | Chief Operating Officer | 最高執行責任者 |
 | CRM | - | Customer Relationship Management | 顧客関係管理 |
 | CS | - | Customer Satisfaction | 顧客満足 |
 | CSS | - | Cascading Style Sheets | - |
 | CSV | - | Comma Separated Values | カンマ区切り値 |
+| CTO | - | Chief Technology Officer | 最高技術責任者 |
 
 ### Dから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
@@ -87,6 +91,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | EDI | - | Electronic Data Interchange | 電子データ交換 |
 | EDR | - | Endpoint Detection and Response | - |
 | EE | - | Enterprise Edition | - |
+| EM | - | Engineering Manager | - |
 | ERP | - | Enterprise Resource Planning | 企業資源計画 |
 | ESG | - | Environment Social Governance | 環境・社会・ガバナンス |
 | ETL | - | Extract Transform Load | - |
@@ -140,6 +145,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | IP | - | Intellectual Property | 知的財産 |
 | IP | - | Internet Protocol | - |
 | IPA | - | Information-technology Promotion Agency | 情報処理推進機構 |
+| IPO | - | Initial Public Offering | 新規株式公開 |
 | ISO | - | International Organization for Standardization | 国際標準化機構 |
 | IT | - | Information Technology | 情報技術 |
 | IT | - | Integration Test | 結合テスト |
@@ -170,7 +176,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | LFU | - | Least Frequently Used | - |
 | LIFO | ライフォ | Last In First Out | 後入先出法 |
 | LLM | - | Large Language Model | 大規模言語モデル |
-| LP | - | Landing Page | ランディングページ |
+| LP | - | Landing Page | - |
 | LPIC | エルピック | Linux Professional Institute Certification | Linux技術者認定試験 |
 | LPWA | - | Low Power Wide Area | - |
 | LRU | - | Least Recently Used | - |
@@ -191,6 +197,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | MI | - | Materials Informatics | - |
 | MIME | マイム | Multipurpose Internet Mail Extensions | - |
 | ML | - | Machine Learning | 機械学習 |
+| MOT | - | Management of Technology | 技術経営 |
 | MR | - | Mixed Reality | 複合現実 |
 | MRU | - | Most Recently Used | - |
 | MSS | - | Managed Security Service | - |
@@ -262,6 +269,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | PR | - | Pull Request | - |
 | PT | - | Part Test | 単体テスト |
 | PT | - | Program Test | 単体テスト |
+| PW | - | Password | - |
 
 ### Qから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
@@ -325,6 +333,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | SSO | - | Single Sign-On | - |
 | SSP | - | Supply Side Platform | - |
 | ST | - | System Test | - |
+| SVG | - | Scalable Vector Graphics | - |
 
 ### Tから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
@@ -332,6 +341,9 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | TCO | - | Total Cost of Ownership | 総所有コスト |
 | TCP | - | Transmission Control Protocol | - |
 | TIFF | ティフ | Tagged Image File Format | - |
+| TL | - | Tech Lead | - |
+| TL | - | Timeline | - |
+| TSV | - | Tab Separated Values | タブ区切り値 |
 
 ### Uから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
@@ -343,6 +355,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | UL | - | Upload | - |
 | UML | - | Unified Modeling Language | 統一モデリング言語 |
 | UPS | - | Uninterruptible Power Supply | 無停電電源装置 |
+| URL | - | Uniform Resource Locator | - |
 | USB | - | Universal Serial Bus | - |
 | UTC | - | Universal Time Coordinated | 協定世界時 |
 | UUID | - | Universally Unique Identifier | - |
@@ -356,6 +369,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | VLM | - | Vision-Language Model | 視覚言語モデル |
 | VoC | - | Voice of Customer | - |
 | VPN | - | Virtual Private Network | - |
+| VPoE | - | Vice President of Engineering | - |
 | VPS | - | Virtual Private Server | 仮想専用サーバ |
 | VR | - | Virtual Reality | 仮想現実 |
 | VUCA | ブーカ | Volatility Uncertainty Complexity Ambiguity | - |
@@ -367,7 +381,9 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | WAN | ワン | Wide Area Network | 広域通信網 |
 | WAU | - | Weekly Active Users | 週次アクティブユーザ |
 | WBS | - | Work Breakdown Structure | - |
+| WLAN | - | Wireless Local Area Network | - |
 | WPA | - | Wi-Fi Protected Access | - |
+| WWW | - | World Wide Web | - |
 
 ### Xから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
