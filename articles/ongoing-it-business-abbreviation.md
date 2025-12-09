@@ -15,6 +15,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | ABEND | アベンド | Abnormal End | 異常終了 |
 | ACL | - | Access Control List | アクセス制御リスト |
+| ADSL | - | Asymmetric Digital Subscriber Line | 非対称デジタル加入者線 |
 | AGI | - | Artificial General Intelligence | 人工汎用知能 |
 | AI | - | Adobe Illustrator | - |
 | AI | - | Artificial Intelligence | 人工知能 |
@@ -59,12 +60,14 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | CI | - | Continuous Integration | 継続的インテグレーション |
 | CIA | - | Confidentiality Integrity Availability | 機密性・完全性・可用性 |
 | CIO | - | Chief Information Officer | 最高情報責任者 |
+| CNN | - | Convolutional Neural Network | 畳み込みニューラルネットワーク |
 | COO | - | Chief Operating Officer | 最高執行責任者 |
 | CRM | - | Customer Relationship Management | 顧客関係管理 |
 | CS | - | Customer Satisfaction | 顧客満足 |
 | CSS | - | Cascading Style Sheets | - |
 | CSV | - | Comma Separated Values | カンマ区切り値 |
 | CTO | - | Chief Technology Officer | 最高技術責任者 |
+| CX | - | Customer Experience | 顧客体験 |
 
 ### Dから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
@@ -75,6 +78,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | DL | - | Download | - |
 | DM | - | Direct Message | - |
 | DMP | - | Data Management Platform | - |
+| DNN | - | Deep Neural Network | - |
 | DNS | - | Domain Name System | - |
 | DS | - | Data Science | - |
 | DSL | - | Domain Specific Language | ドメイン固有言語 |
@@ -89,6 +93,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | EC | - | Electronic Commerce | 電子商取引 |
 | EDA | - | Exploratory Data Analysis | 探索的データ分析 |
 | EDI | - | Electronic Data Interchange | 電子データ交換 |
+| EDINET | エディネット | Electronic Disclosure for Investors' NETwork | 金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム |
 | EDR | - | Endpoint Detection and Response | - |
 | EE | - | Enterprise Edition | - |
 | EM | - | Engineering Manager | - |
@@ -137,9 +142,12 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | 略語 | 読み方 | 正式名称 | 日本語 |
 | ---- | ---- | ---- | ---- |
 | IaaS | アイアース/イアース | Infrastructure as a Service | - |
+| IaC | - | Infrastructure as Code | - |
 | IC | - | Integrated Circuit | 集積回路 |
 | ICT | - | Information and Communication Technology | 情報通信技術 |
 | ID | - | Identifier | 識別子 |
+| IE | - | Industrial Engineering | - |
+| IE | - | Internet Explorer | - |
 | I/O | - | Input/Output | 入力/出力 |
 | IoT | - | Internet of Things | モノのインターネット |
 | IP | - | Intellectual Property | 知的財産 |
@@ -197,6 +205,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | MI | - | Materials Informatics | - |
 | MIME | マイム | Multipurpose Internet Mail Extensions | - |
 | ML | - | Machine Learning | 機械学習 |
+| MNIST | エムニスト | Mixed National Institute of Standards and Technology database | - |
 | MOT | - | Management of Technology | 技術経営 |
 | MR | - | Mixed Reality | 複合現実 |
 | MRU | - | Most Recently Used | - |
@@ -289,6 +298,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | RAID | レイド | Redundant Array of Inexpensive Disks | - |
 | RAM | ラム | Random Access Memory | - |
 | REST | レスト | Representational State Transfer | - |
+| RNN | - | Recurrent Neural Network | 再帰型ニューラルネットワーク |
 | ROM | ロム | Read Only Memory | - |
 | RPA | - | Robotic Process Automation | - |
 | RPO | - | Recovery Point Objective | 目標復旧時点 |
@@ -323,7 +333,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | SNS | - | Social Networking Service | - |
 | SO | - | Stock Option | - |
 | SOA | - | Service Oriented Architecture | サービス指向アーキテクチャ |
-| SOC | - | Security Operation Center | - |
+| SOC | - | Security Operations Center | - |
 | SP | - | Security Policy | - |
 | SQL | - | Structured Query Language | 構造化問い合わせ言語 |
 | SSD | - | Solid State Drive | - |
@@ -340,6 +350,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | TCO | - | Total Cost of Ownership | 総所有コスト |
 | TCP | - | Transmission Control Protocol | - |
+| TDnet | ティーディーネット | Timely Disclosure Network | 適時開示情報伝達システム |
 | TIFF | ティフ | Tagged Image File Format | - |
 | TL | - | Tech Lead | - |
 | TL | - | Timeline | - |
@@ -381,6 +392,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | WAN | ワン | Wide Area Network | 広域通信網 |
 | WAU | - | Weekly Active Users | 週次アクティブユーザ |
 | WBS | - | Work Breakdown Structure | - |
+| WIPO | ワイポ | World Intellectual Property Organization | 世界知的所有権機関 |
 | WLAN | - | Wireless Local Area Network | - |
 | WPA | - | Wi-Fi Protected Access | - |
 | WWW | - | World Wide Web | - |
