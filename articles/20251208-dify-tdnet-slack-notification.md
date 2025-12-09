@@ -258,6 +258,12 @@ def main(item, summary):
     return {"result": text}
 ```
 
+##### Incoming Webhook to send message
+- 入力変数
+    - content： **Slack通知文面作成**ノードで出力された`result`
+- 設定
+    - Slack Incoming Webhook url： 環境変数の`slack_incoming_webhook_url`
+
 ### 出力
 - 出力変数
     - 変数名： output
