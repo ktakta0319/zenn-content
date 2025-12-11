@@ -22,10 +22,12 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ANSI | アンシー | American National Standards Institute | 米国規格協会 |
 | API | - | Application Programming Interface | - |
 | AR | - | Augmented Reality | 拡張現実 |
+| AS | - | Autonomous System | 自律システム |
 | ASAP | アサップ | As Soon As Possible | できるだけ早く |
+| ASCII | アスキー | American Standard Code for Information Interchange | - |
 | ASP | - | Affiliate Service Provider | - |
 | ASP | - | Application Service Provider | - |
-| ASCII | アスキー | American Standard Code for Information Interchange | - |
+| AST | - | Abstract Syntax Tree | 抽象構文木 |
 | AWS | - | Amazon Web Services | - |
 | AX | - | AI Transformation | - |
 
@@ -64,6 +66,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | COO | - | Chief Operating Officer | 最高執行責任者 |
 | CRM | - | Customer Relationship Management | 顧客関係管理 |
 | CS | - | Customer Satisfaction | 顧客満足 |
+| CSIRT | シーサート | Computer Security Incident Response Team | - |
 | CSS | - | Cascading Style Sheets | - |
 | CSV | - | Comma Separated Values | カンマ区切り値 |
 | CTO | - | Chief Technology Officer | 最高技術責任者 |
@@ -80,6 +83,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | DMP | - | Data Management Platform | - |
 | DNN | - | Deep Neural Network | - |
 | DNS | - | Domain Name System | - |
+| DOM | ドム | Document Object Model | - |
 | DS | - | Data Science | - |
 | DSL | - | Domain Specific Language | ドメイン固有言語 |
 | DSP | - | Demand Side Platform | - |
@@ -120,6 +124,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | GAFAM | ガーファム | Google Apple Facebook Amazon Microsoft | - |
 | GAS | ガス | Google Apps Script | - |
 | GCP | - | Google Cloud Platform | - |
+| GDPR | - | General Data Protection Regulation | 一般データ保護規則 |
 | GIF | ジフ | Graphics Interchange Format | - |
 | GMT | - | Greenwich Mean Time | グリニッジ標準時 |
 | GPT | - | Generative Pre-trained Transformer | - |
@@ -148,6 +153,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ID | - | Identifier | 識別子 |
 | IE | - | Industrial Engineering | - |
 | IE | - | Internet Explorer | - |
+| IEEE | アイトリプルイー | Institute of Electrical and Electronics Engineers | 電気電子学会 |
 | I/O | - | Input/Output | 入力/出力 |
 | IoT | - | Internet of Things | モノのインターネット |
 | IP | - | Intellectual Property | 知的財産 |
@@ -163,6 +169,8 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | JIS | ジス | Japanese Industrial Standards | 日本産業規格 |
 | JISC | ジスク | Japanese Industrial Standards Committee | 日本産業標準調査会 |
+| JPCERT | - | Japan Computer Emergency Response Team | - |
+| JPCERT/CC | - | Japan Computer Emergency Response Team Coordination Center | - |
 | JPEG | ジェイペグ | Joint Photographic Experts Group | - |
 | JS | - | JavaScript | - |
 | JSON | ジェイソン | JavaScript Object Notation | - |
@@ -170,6 +178,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | JSP | - | JavaServer Pages | - |
 | JST | - | Japan Science and Technology Agency | 国立研究開発法人 科学技術振興機構 |
 | JST | - | Japan Standard Time | 日本標準時 |
+| JVN | - | Japan Vulnerability Notes | - |
 
 ### Kから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
@@ -284,6 +293,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | 略語 | 読み方 | 正式名称 | 日本語 |
 | ---- | ---- | ---- | ---- |
 | QA | - | Quality Assurance | 品質保証 |
+| QA | - | Question-Answering | 質問応答 |
 | Q&A | - | Question and Answer | 質問と回答 |
 | QC | - | Quality Control | 品質管理 |
 | QCD | - | Quality Cost Delivery | 品質・コスト・納期 |
@@ -375,6 +385,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 ### Vから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
 | ---- | ---- | ---- | ---- |
+| VBA | - | Visual Basic for Applications | - |
 | VDI | - | Virtual Desktop Infrastructure | 仮想デスクトップ基盤 |
 | VIP | - | Virtual IP Address | 仮想IPアドレス |
 | VLM | - | Vision-Language Model | 視覚言語モデル |
@@ -382,6 +393,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | VPN | - | Virtual Private Network | - |
 | VPoE | - | Vice President of Engineering | - |
 | VPS | - | Virtual Private Server | 仮想専用サーバ |
+| VQA | - | Visual Question Answering | - |
 | VR | - | Virtual Reality | 仮想現実 |
 | VUCA | ブーカ | Volatility Uncertainty Complexity Ambiguity | - |
 
