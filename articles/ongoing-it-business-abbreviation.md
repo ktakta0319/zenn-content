@@ -63,6 +63,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | CIA | - | Confidentiality Integrity Availability | 機密性・完全性・可用性 |
 | CIO | - | Chief Information Officer | 最高情報責任者 |
 | CNN | - | Convolutional Neural Network | 畳み込みニューラルネットワーク |
+| Colab | コラボ | Google Colaboratory | - |
 | COO | - | Chief Operating Officer | 最高執行責任者 |
 | CRM | - | Customer Relationship Management | 顧客関係管理 |
 | CS | - | Customer Satisfaction | 顧客満足 |
@@ -77,6 +78,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | DAU | - | Daily Active Users | 日次アクティブユーザ |
 | DB | - | Database | - |
+| DDoS | ディードス | Distributed Denial of Service | 分散型サービス拒否 |
 | DL | - | Deep Learning | 深層学習 |
 | DL | - | Download | - |
 | DM | - | Direct Message | - |
@@ -84,6 +86,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | DNN | - | Deep Neural Network | - |
 | DNS | - | Domain Name System | - |
 | DOM | ドム | Document Object Model | - |
+| DoS | ドス | Denial of Service | サービス拒否 |
 | DS | - | Data Science | - |
 | DSL | - | Domain Specific Language | ドメイン固有言語 |
 | DSP | - | Demand Side Platform | - |
@@ -127,7 +130,9 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | GDPR | - | General Data Protection Regulation | 一般データ保護規則 |
 | GIF | ジフ | Graphics Interchange Format | - |
 | GMT | - | Greenwich Mean Time | グリニッジ標準時 |
+| GPS | - | Global Positioning System | 全地球測位システム |
 | GPT | - | Generative Pre-trained Transformer | - |
+| GPU | - | Graphics Processing Unit | 画像処理装置 |
 | GUI | - | Graphical User Interface | - |
 
 ### Hから始まる略語
@@ -135,6 +140,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | HDD | - | Hard Disk Drive | - |
 | HDMI | - | High-Definition Multimedia Interface | - |
+| HIPAA | ヒッパ | Health Insurance Portability and Accountability Act | 医療保険の携行性と責任に関する法律 |
 | HMD | - | Head Mounted Display | - |
 | HP | - | Homepage | - |
 | HQ | - | Headquarters | 本社/本部/司令塔 |
@@ -142,6 +148,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | HTML | - | Hypertext Markup Language | - |
 | HTTP | - | Hypertext Transfer Protocol | - |
 | HTTPS | - | Hypertext Transfer Protocol Secure | - |
+| HW | - | Hardware | - |
 
 ### Iから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
@@ -332,6 +339,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | SDN | - | Software-Defined Networking | - |
 | SE | - | Standard Edition | 標準版 |
 | SE | - | System Engineer | - |
+| SEO | - | Search Engine Optimization | 検索エンジン最適化 |
 | SES | - | System Engineering Service | - |
 | SFA | - | Sales Force Automation | 営業支援システム |
 | SIEM | シーム | Security Information and Event Management | セキュリティ情報イベント管理 |
@@ -354,6 +362,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | SSP | - | Supply Side Platform | - |
 | ST | - | System Test | - |
 | SVG | - | Scalable Vector Graphics | - |
+| SW | - | Software | - |
 
 ### Tから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
@@ -364,6 +373,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | TIFF | ティフ | Tagged Image File Format | - |
 | TL | - | Tech Lead | - |
 | TL | - | Timeline | - |
+| TPU | - | Tensor Processing Unit | - |
 | TSV | - | Tab Separated Values | タブ区切り値 |
 
 ### Uから始まる略語
