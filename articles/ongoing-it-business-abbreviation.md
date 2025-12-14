@@ -1,7 +1,7 @@
 ---
 title: "IT・ビジネス略語集"
 emoji: "📚"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["用語集"]
 published: true
 ---
