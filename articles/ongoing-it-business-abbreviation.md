@@ -25,6 +25,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | AS | - | Autonomous System | 自律システム |
 | ASAP | アサップ | As Soon As Possible | できるだけ早く |
 | ASCII | アスキー | American Standard Code for Information Interchange | - |
+| ASIC | エーシック | Application Specific Integrated Circuit | 特定用途向け集積回路 |
 | ASP | - | Affiliate Service Provider | - |
 | ASP | - | Application Service Provider | - |
 | AST | - | Abstract Syntax Tree | 抽象構文木 |
@@ -62,9 +63,11 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | CI | - | Continuous Integration | 継続的インテグレーション |
 | CIA | - | Confidentiality Integrity Availability | 機密性・完全性・可用性 |
 | CIO | - | Chief Information Officer | 最高情報責任者 |
+| CLI | - | Command Line Interface | - |
 | CNN | - | Convolutional Neural Network | 畳み込みニューラルネットワーク |
 | Colab | コラボ | Google Colaboratory | - |
 | COO | - | Chief Operating Officer | 最高執行責任者 |
+| CR | - | Carriage Return | 行頭復帰 |
 | CRM | - | Customer Relationship Management | 顧客関係管理 |
 | CS | - | Customer Satisfaction | 顧客満足 |
 | CSIRT | シーサート | Computer Security Incident Response Team | - |
@@ -197,6 +200,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | 略語 | 読み方 | 正式名称 | 日本語 |
 | ---- | ---- | ---- | ---- |
 | LAN | ラン | Local Area Network | - |
+| LF | - | Line Feed | 行送り |
 | LFU | - | Least Frequently Used | - |
 | LIFO | ライフォ | Last In First Out | 後入先出法 |
 | LLM | - | Large Language Model | 大規模言語モデル |
@@ -250,6 +254,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | NN | - | Neural Network | - |
 | NOR | ノア | Not OR | 否定論理和 |
 | NPS | - | Net Promoter Score | - |
+| NPU | - | Neural Processing Unit | - |
 | NTP | - | Network Time Protocol | - |
 
 ### Oから始まる略語
@@ -277,6 +282,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | PaaS | パース | Platform as a Service | - |
 | PC | - | Personal Computer | - |
+| PCT | - | Patent Cooperation Treaty | 特許協力条約 |
 | PDA | - | Personal Digital Assistant | - |
 | PDCA | - | Plan Do Check Act | - |
 | PDF | - | Portable Document Format | - |
@@ -399,7 +405,9 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | VDI | - | Virtual Desktop Infrastructure | 仮想デスクトップ基盤 |
 | VIP | - | Virtual IP Address | 仮想IPアドレス |
 | VLM | - | Vision-Language Model | 視覚言語モデル |
+| VM | - | Virtual Machine | 仮想マシン |
 | VoC | - | Voice of Customer | - |
+| VoIP | - | Voice over Internet Protocol | - |
 | VPN | - | Virtual Private Network | - |
 | VPoE | - | Vice President of Engineering | - |
 | VPS | - | Virtual Private Server | 仮想専用サーバ |
@@ -417,6 +425,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | WIPO | ワイポ | World Intellectual Property Organization | 世界知的所有権機関 |
 | WLAN | - | Wireless Local Area Network | - |
 | WPA | - | Wi-Fi Protected Access | - |
+| WSL | - | Windows Subsystem for Linux | - |
 | WWW | - | World Wide Web | - |
 
 ### Xから始まる略語
