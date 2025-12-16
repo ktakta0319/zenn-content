@@ -25,7 +25,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | AS | - | Autonomous System | 自律システム |
 | ASAP | アサップ | As Soon As Possible | できるだけ早く |
 | ASCII | アスキー | American Standard Code for Information Interchange | - |
-| ASIC | エーシック | Application Specific Integrated Circuit | 特定用途向け集積回路 |
+| ASIC | エーシック | Application-Specific Integrated Circuit | 特定用途向け集積回路 |
 | ASP | - | Affiliate Service Provider | - |
 | ASP | - | Application Service Provider | - |
 | AST | - | Abstract Syntax Tree | 抽象構文木 |
@@ -56,6 +56,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | CD | - | Continuous Delivery | 継続的デリバリ |
 | CD | - | Continuous Deployment | 継続的デプロイメント |
 | CD | - | Compact Disc | - |
+| CDA | - | Confirmatory Data Analysis | 確証的データ分析 |
 | CDN | - | Content Delivery Network | コンテンツ配信ネットワーク |
 | CEO | - | Chief Executive Officer | 最高経営責任者 |
 | CFO | - | Chief Financial Officer | 最高財務責任者 |
@@ -158,6 +159,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | IaaS | アイアース/イアース | Infrastructure as a Service | - |
 | IaC | - | Infrastructure as Code | - |
+| IBM | - | International Business Machines Corporation | - |
 | IC | - | Integrated Circuit | 集積回路 |
 | ICT | - | Information and Communication Technology | 情報通信技術 |
 | ID | - | Identifier | 識別子 |
@@ -217,6 +219,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | MA | - | Marketing Automation | - |
 | MAC | マック | Media Access Control | メディアアクセス制御 |
+| MAS | - | Multi-Agent System | - |
 | MAU | - | Monthly Active Users | 月次アクティブユーザ |
 | MC | - | Media Converter | - |
 | MCP | - | Model Context Protocol | - |
@@ -226,6 +229,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | MIME | マイム | Multipurpose Internet Mail Extensions | - |
 | ML | - | Machine Learning | 機械学習 |
 | MNIST | エムニスト | Mixed National Institute of Standards and Technology database | - |
+| MOS | モス | Microsoft Office Specialist | - |
 | MOT | - | Management of Technology | 技術経営 |
 | MR | - | Mixed Reality | 複合現実 |
 | MRU | - | Most Recently Used | - |
@@ -264,6 +268,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ODM | - | Original Design Manufacturing | - |
 | OEM | - | Original Equipment Manufacturing | - |
 | Off-JT | - | Off-the-Job Training | 職場外研修 |
+| OIDC | - | OpenID Connect | - |
 | OJT | - | On-the-Job Training | 職場内訓練 |
 | OLAP | - | Online Analytical Processing | オンライン分析処理 |
 | OLTP | - | Online Transaction Processing | オンライントランザクション処理 |
@@ -300,6 +305,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | PR | - | Pull Request | - |
 | PT | - | Part Test | 単体テスト |
 | PT | - | Program Test | 単体テスト |
+| PV | - | Page View | - |
 | PW | - | Password | - |
 
 ### Qから始まる略語
@@ -379,8 +385,10 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | TIFF | ティフ | Tagged Image File Format | - |
 | TL | - | Tech Lead | - |
 | TL | - | Timeline | - |
+| TLS | - | Transport Layer Security | - |
 | TPU | - | Tensor Processing Unit | - |
 | TSV | - | Tab Separated Values | タブ区切り値 |
+| TTFT | - | Time to First Token | - |
 
 ### Uから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
