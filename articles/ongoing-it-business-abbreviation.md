@@ -89,6 +89,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | DMP | - | Data Management Platform | - |
 | DNN | - | Deep Neural Network | - |
 | DNS | - | Domain Name System | - |
+| DOB | - | Date of Birth | 生年月日 |
 | DOM | ドム | Document Object Model | - |
 | DoS | ドス | Denial of Service | サービス拒否 |
 | DS | - | Data Science | - |
@@ -129,6 +130,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | GAFA | ガーファ | Google Apple Facebook Amazon | - |
 | GAFAM | ガーファム | Google Apple Facebook Amazon Microsoft | - |
+| GAN | ガン/ギャン | Generative Adversarial Network | 敵対的生成ネットワーク |
 | GAS | ガス | Google Apps Script | - |
 | GCP | - | Google Cloud Platform | - |
 | GDPR | - | General Data Protection Regulation | 一般データ保護規則 |
@@ -295,6 +297,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | PK | - | Primary Key | 主キー |
 | PM | - | Project Manager | - |
 | PMM | - | Product Marketing Manager | - |
+| PMO | - | Project Management Office | - |
 | PNG | ピング | Portable Network Graphics | - |
 | PoC | ポック | Proof of Concept | 概念実証 |
 | POP | ポップ | Point of Purchase | - |
@@ -324,6 +327,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | 略語 | 読み方 | 正式名称 | 日本語 |
 | ---- | ---- | ---- | ---- |
 | RAG | ラグ | Retrieval-Augmented Generation | 検索拡張生成 |
+| Ragas | ラガス | Retrieval-Augmented Generation Assessment | - |
 | RAID | レイド | Redundant Array of Inexpensive Disks | - |
 | RAM | ラム | Random Access Memory | - |
 | REST | レスト | Representational State Transfer | - |
@@ -358,6 +362,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | SIer | エスアイアー | System Integrator | - |
 | SIM | シム | Subscriber Identity Module | - |
 | SLA | - | Service Level Agreement | サービスレベル契約 |
+| SLO | - | Service Level Objective | サービスレベル目標 |
 | SMS | - | Short Message Service | - |
 | SMTP | - | Simple Mail Transfer Protocol | - |
 | SNS | - | Social Networking Service | - |
@@ -366,6 +371,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | SOC | - | Security Operations Center | - |
 | SP | - | Security Policy | - |
 | SQL | - | Structured Query Language | 構造化問い合わせ言語 |
+| SRE | - | Site Reliability Engineering | サイト信頼性エンジニアリング |
 | SSD | - | Solid State Drive | - |
 | SSH | - | Secure Shell | - |
 | SSL | - | Secure Sockets Layer | - |
@@ -373,6 +379,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | SSO | - | Single Sign-On | - |
 | SSP | - | Supply Side Platform | - |
 | ST | - | System Test | - |
+| STT | - | Speech-to-Text | - |
 | SVG | - | Scalable Vector Graphics | - |
 | SW | - | Software | - |
 
@@ -389,6 +396,8 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | TPU | - | Tensor Processing Unit | - |
 | TSV | - | Tab Separated Values | タブ区切り値 |
 | TTFT | - | Time to First Token | - |
+| TTI | - | Time to Interactive | - |
+| TTS | - | Text-to-Speech | - |
 
 ### Uから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
