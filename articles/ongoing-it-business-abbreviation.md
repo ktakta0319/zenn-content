@@ -70,6 +70,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | COO | - | Chief Operating Officer | 最高執行責任者 |
 | CR | - | Carriage Return | 行頭復帰 |
 | CRM | - | Customer Relationship Management | 顧客関係管理 |
+| CS | - | Computer Science | 計算機科学 |
 | CS | - | Customer Satisfaction | 顧客満足 |
 | CSIRT | シーサート | Computer Security Incident Response Team | - |
 | CSS | - | Cascading Style Sheets | - |
@@ -82,6 +83,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | DAU | - | Daily Active Users | 日次アクティブユーザ |
 | DB | - | Database | - |
+| DDD | - | Domain-Driven Design | ドメイン駆動設計 |
 | DDoS | ディードス | Distributed Denial of Service | 分散型サービス拒否 |
 | DL | - | Deep Learning | 深層学習 |
 | DL | - | Download | - |
@@ -102,6 +104,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 ### Eから始まる略語
 | 略語 | 読み方 | 正式名称 | 日本語 |
 | ---- | ---- | ---- | ---- |
+| EBPM | - | Evidence-Based Policy Making | 証拠に基づく政策立案 |
 | EC | - | Electronic Commerce | 電子商取引 |
 | EDA | - | Exploratory Data Analysis | 探索的データ分析 |
 | EDI | - | Electronic Data Interchange | 電子データ交換 |
@@ -109,6 +112,13 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | EDR | - | Endpoint Detection and Response | - |
 | EE | - | Enterprise Edition | - |
 | EM | - | Engineering Manager | - |
+| EOE | - | End Of Engineering | - |
+| EOL | - | End Of Life | - |
+| EOL | - | End Of Line | - |
+| EOS | - | End Of Sales | 販売終了 |
+| EOS | - | End Of Service | サービス終了 |
+| EOS | - | End Of Support | サポート終了 |
+| EOSL | - | End Of Service Life | - |
 | ERP | - | Enterprise Resource Planning | 企業資源計画 |
 | ESG | - | Environment Social Governance | 環境・社会・ガバナンス |
 | ETL | - | Extract Transform Load | - |
@@ -204,6 +214,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | 略語 | 読み方 | 正式名称 | 日本語 |
 | ---- | ---- | ---- | ---- |
 | LAN | ラン | Local Area Network | - |
+| LB | - | Load Balancer | 負荷分散装置 |
 | LF | - | Line Feed | 行送り |
 | LFU | - | Least Frequently Used | - |
 | LIFO | ライフォ | Last In First Out | 後入先出法 |
@@ -236,7 +247,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | MR | - | Mixed Reality | 複合現実 |
 | MRU | - | Most Recently Used | - |
 | MSS | - | Managed Security Service | - |
-| MTBF | - | Mean Time Between Failure | 平均故障間隔 |
+| MTBF | - | Mean Time Between Failures | 平均故障間隔 |
 | MTTF | - | Mean Time To Failure | 平均故障時間 |
 | MTTR | - | Mean Time To Recovery | 平均復旧時間 |
 | MTTR | - | Mean Time To Repair | 平均修復時間 |
@@ -277,6 +288,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ONU | - | Optical Network Unit | - |
 | OODA | ウーダ | Observe Orient Decide Act | - |
 | OOP | - | Object-Oriented Programming | オブジェクト指向プログラミング |
+| OR | - | Operations Research | - |
 | OS | - | Operating System | - |
 | OSI | - | Open Systems Interconnection | - |
 | OSS | - | Open Source Software | - |
@@ -388,6 +400,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | ---- | ---- | ---- | ---- |
 | TCO | - | Total Cost of Ownership | 総所有コスト |
 | TCP | - | Transmission Control Protocol | - |
+| TDD | - | Test-Driven Development | テスト駆動開発 |
 | TDnet | ティーディーネット | Timely Disclosure Network | 適時開示情報伝達システム |
 | TIFF | ティフ | Tagged Image File Format | - |
 | TL | - | Tech Lead | - |
