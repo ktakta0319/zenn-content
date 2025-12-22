@@ -3,7 +3,7 @@ title: "DifyでLangfuseプラグインを使ってプロンプトを管理する
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Dify", "Langfuse"]
-published: false
+published: true
 ---
 ## 1. はじめに
 Difyのワークフロー/チャットフローを開発するうえで、プロンプト・エンジニアリングは重要です。しかし、プロンプトを適切に管理できていない場合、「少し前のバージョンのプロンプトを使いたいけど消してしまった...」なんて事態が起こりかねません。
