@@ -85,6 +85,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | DB | - | Database | - |
 | DDD | - | Domain-Driven Design | ドメイン駆動設計 |
 | DDoS | ディードス | Distributed Denial of Service | 分散型サービス拒否 |
+| DFD | - | Data Flow Diagram | データフロー図 |
 | DL | - | Deep Learning | 深層学習 |
 | DL | - | Download | - |
 | DM | - | Direct Message | - |
@@ -119,6 +120,7 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | EOS | - | End Of Service | サービス終了 |
 | EOS | - | End Of Support | サポート終了 |
 | EOSL | - | End Of Service Life | - |
+| ERD | - | Entity Relationship Diagram | 実体関連図 |
 | ERP | - | Enterprise Resource Planning | 企業資源計画 |
 | ESG | - | Environment Social Governance | 環境・社会・ガバナンス |
 | ETL | - | Extract Transform Load | - |
@@ -242,6 +244,8 @@ IT関連の業務では数多くの略語が使われます。略語の方は知
 | MIME | マイム | Multipurpose Internet Mail Extensions | - |
 | ML | - | Machine Learning | 機械学習 |
 | MNIST | エムニスト | Mixed National Institute of Standards and Technology database | - |
+| MoA | - | Mixture of Agents | - |
+| MoE | - | Mixture of Experts | - |
 | MOS | モス | Microsoft Office Specialist | - |
 | MOT | - | Management of Technology | 技術経営 |
 | MR | - | Mixed Reality | 複合現実 |
